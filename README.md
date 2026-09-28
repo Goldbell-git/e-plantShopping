@@ -1,1 +1,1 @@
-# coding-project-template
+A shopping cart application-e-plantShopping, for an online plant shop that offers a variety of house plants.  
