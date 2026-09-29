@@ -22,7 +22,7 @@ function App() {
         <div className="background-image"></div>
         <div className="content">
          <div className="landing_content">
-         <h1>Welcome To Paradise Nursery</h1>
+         <h1>Welcome To Bello Nursery</h1>
           <div className="divider"></div>
           <p>Where Green Meets Serenity</p>
          
@@ -33,7 +33,7 @@ function App() {
           <div className="aboutus_container">
           <AboutUs/>
           </div>
-          </div>
+        </div>
 
       </div>
       <div className={`product-list-container ${showProductList ? 'visible' : ''}`}>
